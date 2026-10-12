@@ -54,7 +54,9 @@
     "uniqCompNum": 120,
     "versionPublish": "6.1.12",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
