@@ -1620,8 +1620,8 @@ a {
   }
 }
 .cid-vsGQ0kOwaC {
-  padding-top: 7rem;
-  padding-bottom: 2rem;
+  padding-top: 6rem;
+  padding-bottom: 1rem;
   background-color: #1b57c5;
 }
 @media (max-width: 991px) {
@@ -1670,7 +1670,7 @@ a {
 .cid-vsGQ0lRkg5 .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #ffffff;
+  background: #bed3f9;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1702,8 +1702,8 @@ a {
   text-align: left;
 }
 .cid-vsGQ0nw4KO {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #0b3480;
 }
 .cid-vsGQ0nw4KO img,
@@ -2710,6 +2710,9 @@ a {
 .cid-vsMbeGVc0v img,
 .cid-vsMbeGVc0v .item-img {
   width: 100%;
+  height: 100%;
+  height: 200px;
+  object-fit: cover;
 }
 .cid-vsMbeGVc0v .item:focus,
 .cid-vsMbeGVc0v span:focus {
@@ -2764,13 +2767,13 @@ a {
 .cid-vsMbeJRq0S {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #4479d9;
+  background-color: #0b3480;
 }
 .cid-vsMbeJRq0S img,
 .cid-vsMbeJRq0S .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: cover;
 }
 .cid-vsMbeJRq0S .item:focus,
@@ -3583,7 +3586,7 @@ a {
 .cid-vz4pUv7rmC {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #bed3f9;
 }
 .cid-vz4pUv7rmC .row {
   flex-direction: row-reverse;
@@ -3617,7 +3620,7 @@ a {
 .cid-vz4dW5YtAt {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #4479d9;
+  background-color: #1b57c5;
 }
 .cid-vz4dW5YtAt img,
 .cid-vz4dW5YtAt .item-img {
@@ -4134,9 +4137,9 @@ a {
   }
 }
 .cid-vsMbhOvoHc {
-  padding-top: 10rem;
-  padding-bottom: 4rem;
-  background-color: #bed3f9;
+  padding-top: 7rem;
+  padding-bottom: 2rem;
+  background-color: #9fdbf8;
 }
 .cid-vsMbhOvoHc .row {
   flex-direction: row-reverse;
@@ -4165,9 +4168,9 @@ a {
   color: #353535;
 }
 .cid-vsMbhPHZDq {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-  background-color: #bed3f9;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #0b3480;
 }
 .cid-vsMbhPHZDq img,
 .cid-vsMbhPHZDq .item-img {
@@ -4216,9 +4219,9 @@ a {
   text-align: left;
 }
 .cid-vsMbhT3ZBF {
-  padding-top: 3rem;
-  padding-bottom: 2rem;
-  background-color: #bed3f9;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #9fdbf8;
 }
 .cid-vsMbhT3ZBF img,
 .cid-vsMbhT3ZBF .item-img {
@@ -4684,8 +4687,8 @@ a {
   }
 }
 .cid-vsMbsPrydq {
-  padding-top: 10rem;
-  padding-bottom: 4rem;
+  padding-top: 7rem;
+  padding-bottom: 2rem;
   background-color: #094715;
 }
 @media (max-width: 991px) {
@@ -4716,7 +4719,7 @@ a {
 }
 .cid-vsMbsR7rIH {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/delregistroxls-640x427.jpg");
 }
 .cid-vsMbsR7rIH .mbr-overlay {
@@ -5191,7 +5194,7 @@ a {
 .cid-vtDDjuX4KK {
   padding-top: 8rem;
   padding-bottom: 2rem;
-  background-color: #f9e6f5;
+  background-color: #5f0b4d;
 }
 .cid-vtDDjuX4KK .mbr-fallback-image.disabled {
   display: none;
@@ -5221,12 +5224,15 @@ a {
   }
 }
 .cid-vtDDjuX4KK .mbr-section-title {
-  color: #5f0b4d;
+  color: #ffffff;
+}
+.cid-vtDDjuX4KK .mbr-text {
+  color: #ffffff;
 }
 .cid-vtDtME5txq {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background: #5f0b4d;
+  background: #f9e6f5;
 }
 .cid-vtDtME5txq .mbr-fallback-image.disabled {
   display: none;
@@ -5297,12 +5303,12 @@ a {
   color: #ffffff;
 }
 .cid-vtDtME5txq .mbr-section-title {
-  color: #ffffff;
+  color: #5f0b4d;
 }
 .cid-vtD6fvq4cp {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #f9e6f5;
+  background-color: #5f0b4d;
 }
 .cid-vtD6fvq4cp .mbr-fallback-image.disabled {
   display: none;
@@ -5330,10 +5336,16 @@ a {
     margin-bottom: 2rem;
   }
 }
+.cid-vtD6fvq4cp .mbr-section-title {
+  color: #ffffff;
+}
+.cid-vtD6fvq4cp .mbr-text {
+  color: #ffffff;
+}
 .cid-vtD6hlsnbQ {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #5f0b4d;
+  background-color: #f9e6f5;
 }
 .cid-vtD6hlsnbQ .mbr-fallback-image.disabled {
   display: none;
@@ -5362,12 +5374,12 @@ a {
   }
 }
 .cid-vtD6hlsnbQ .mbr-text {
-  color: #ffffff;
+  color: #5f0b4d;
 }
 .cid-vtD6k0sEAr {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background: #f9e6f5;
+  background: #5f0b4d;
 }
 .cid-vtD6k0sEAr .mbr-fallback-image.disabled {
   display: none;
@@ -5437,10 +5449,13 @@ a {
 .cid-vtD6k0sEAr .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
+.cid-vtD6k0sEAr .mbr-section-title {
+  color: #ffffff;
+}
 .cid-vtDt9aY06j {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background: #5f0b4d;
+  background: #f9e6f5;
 }
 .cid-vtDt9aY06j .mbr-fallback-image.disabled {
   display: none;
@@ -5511,12 +5526,12 @@ a {
   color: #ffffff;
 }
 .cid-vtDt9aY06j .mbr-section-title {
-  color: #ffffff;
+  color: #5f0b4d;
 }
 .cid-vsMex5513E {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #f9e6f5;
+  background-color: #5f0b4d;
 }
 .cid-vsMex5513E img,
 .cid-vsMex5513E .item-img {
@@ -5982,9 +5997,9 @@ a {
   }
 }
 .cid-vsMfN9DKn9 {
-  padding-top: 10rem;
-  padding-bottom: 4rem;
-  background-color: #9fdbf8;
+  padding-top: 8rem;
+  padding-bottom: 1rem;
+  background-color: #afceeb;
 }
 @media (max-width: 991px) {
   .cid-vsMfN9DKn9 .image-wrapper {
@@ -6010,8 +6025,8 @@ a {
   color: #353535;
 }
 .cid-vsMfNgat4Z {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #0b3480;
 }
 @media (min-width: 1500px) {
@@ -6460,8 +6475,8 @@ a {
   }
 }
 .cid-vsSJEPkgnv {
-  padding-top: 9rem;
-  padding-bottom: 3rem;
+  padding-top: 7rem;
+  padding-bottom: 1rem;
   background-color: #0b3480;
 }
 .cid-vsSJEPkgnv .row {
@@ -6494,8 +6509,8 @@ a {
   color: #ffffff;
 }
 .cid-vt2wjkR6VC {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #0b3480;
 }
 @media (max-width: 991px) {
@@ -6562,13 +6577,13 @@ a {
   }
 }
 .cid-vt2iGguzcf .mbr-iconfont {
-  font-size: 2rem;
+  font-size: 3rem;
   padding-right: 1.5rem;
   color: #6592e6;
 }
 .cid-vt2iZ2cKAl {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #0b3480;
 }
 .cid-vt2iZ2cKAl .mbr-overlay {
